@@ -5,5 +5,8 @@ public class Main {
         System.out.println("Hello Java");
 
         System.out.println("Hello test01");
+        System.out.println("Hello test02");
+        System.out.println("Hello test03");
+
     }
 }
