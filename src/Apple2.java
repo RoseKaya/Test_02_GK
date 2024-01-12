@@ -7,9 +7,5 @@ public class Apple2 {
         System.out.println("Apple2_04");
         System.out.println("Apple2_05");
         System.out.println("Apple2_06");
-
-        System.out.println("materbranch");
-        System.out.println("materbranch");
-        System.out.println("materbranch");
     }
 }
