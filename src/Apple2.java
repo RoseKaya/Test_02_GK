@@ -9,5 +9,7 @@ public class Apple2 {
         System.out.println("Apple2_06");
 
         System.out.println("new branch gulTest1");
+
+        //gulTest1 branch new message...
     }
 }
