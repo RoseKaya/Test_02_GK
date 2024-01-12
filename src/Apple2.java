@@ -3,5 +3,9 @@ public class Apple2 {
         System.out.println("Apple2_01");
         System.out.println("Apple2_02");
         System.out.println("Apple2_03");
+
+        System.out.println("Apple2_04");
+        System.out.println("Apple2_05");
+        System.out.println("Apple2_06");
     }
 }
