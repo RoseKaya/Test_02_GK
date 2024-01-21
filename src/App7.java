@@ -4,5 +4,6 @@ public class App7 {
         System.out.println("app7 change01");
         System.out.println("02");
         System.out.println("03");
+
     }
 }
